@@ -55,7 +55,6 @@ gem 'sidekiq'
 gem 'sinatra', require: nil
 gem 'jquery-rails'
 
-gem 'sinatra', require: nil
 gem 'crono'
 gem 'haml'
 
